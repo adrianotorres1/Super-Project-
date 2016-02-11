@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+.happy{
+	font-family: 'Black Ops One';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.happy{
+    color: red;
+}
+.baddies{
+	color: black;
+	background-color: red;
+}
